@@ -21,12 +21,12 @@ public class Cinema {
             } else {
                 System.out.println("Total income:");
                 System.out.println("$" + ((a / 2) * b * 10 + ((a / 2) + 1 ) * b * 8));
+                System.out.println("$" + ((a / 2) * b * 10 + ((a / 2) + 1 ) * b * 8));
+                System.out.println("$" + ((a / 2) * b * 10 + ((a / 2) + 1 ) * b * 8));
+                System.out.println("$" + ((a / 2) * b * 10 + ((a / 2) + 1 ) * b * 8));
+                System.out.println("$" + ((a / 2) * b * 10 + ((a / 2) + 1 ) * b * 8));
+                System.out.println("$" + ((a / 2) * b * 10 + ((a / 2) + 1 ) * b * 8));
             }
         }
-
-
-
-
-
     }
 }
